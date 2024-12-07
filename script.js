@@ -76,6 +76,12 @@ const locations = [
     "button text": ["REPLAY?", "REPLAY?", "REPLAY?"],
     "button functions": [restart, restart, restart],
     text: "You die. &#x2620;"
+  },
+  {
+    name: "win",
+    "button text": ["REPLAY?", "REPLAY?", "REPLAY?"],
+    "button functions": [restart, restart, restart],
+    text: "You die. &#x2620;"
   }
 ];
 
